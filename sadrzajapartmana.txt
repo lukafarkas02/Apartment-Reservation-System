@@ -1,0 +1,9 @@
+1|Kuhinja
+2|Kupatilo
+3|Wi-fi
+4|Pegla
+5|Garaza
+6|Terasa
+7|Klima uredjaj
+8|Pegla za kosu
+9|Podzemna garaza
